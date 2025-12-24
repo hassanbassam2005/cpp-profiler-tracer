@@ -1,0 +1,10 @@
+{"traceEvents":[
+{"name":"Main::Startup","ph":"B","ts":982492683776,"pid":0,"tid":13816},
+{"name":"Main::Startup","ph":"E","ts":982492724925,"pid":0,"tid":13816},
+{"name":"Main::Work","ph":"B","ts":982492725219,"pid":0,"tid":13816},
+{"name":"Main::Work","ph":"E","ts":982492812390,"pid":0,"tid":13816},
+{"name":"void __cdecl worker(void)","ph":"B","ts":982492728626,"pid":0,"tid":4552},
+{"name":"Worker::HeavyBlock","ph":"B","ts":982492766720,"pid":0,"tid":4552},
+{"name":"Worker::HeavyBlock","ph":"E","ts":982492828012,"pid":0,"tid":4552},
+{"name":"void __cdecl worker(void)","ph":"E","ts":982492828022,"pid":0,"tid":4552}
+]}
